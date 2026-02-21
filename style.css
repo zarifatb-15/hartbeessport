@@ -101,7 +101,7 @@
     top: 0;
     color: white;
     cursor: pointer;
-    z-index: 9999; /* ADDED (üstə çıxsın) */
+    z-index: 9999; 
 }
 
 .main-title .new:hover {
@@ -109,17 +109,16 @@
     color: black;
 }
 
-/* ⭐ əlavə təhlükəsizlik */
 .image-shoes img{
-    pointer-events: none; /* ADDED (mouse şəkilə toxunmasın) */
+    pointer-events: none; 
 }
 
-/* STAR */
+
 .staricon {
     margin-top: 15px;
 }
 
-/* SIZE */
+
 .size{
  position: relative;
  top: 35px;
@@ -146,7 +145,7 @@
     cursor: pointer;
 }
 
-/* FOOTER */
+
 .footer{
     margin-top: 40px;
     padding: 20px;
